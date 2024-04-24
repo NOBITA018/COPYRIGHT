@@ -35,7 +35,7 @@ Once deployed, set these environment variables in your Heroku app:
 
 ## Support Group
 
-Join our Telegram support group for help and discussions: [@BWANDARLOK](https://t.me/BWANDARLOK)
+Join our Telegram support group for help and discussions: [@MRITYUY](https://t.me/MRIITYUY)
 
 ## Contributing
 
